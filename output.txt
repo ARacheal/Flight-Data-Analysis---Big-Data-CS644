@@ -1,0 +1,18 @@
+Top 3 airlines on schedule:
+YV7958  100.0%
+YV7003  100.0%
+YV6790  100.0%
+Bottom 3 airlines on schedule:
+9E2072  0.0%
+9E2076  0.0%
+9E2102  0.0%
+Top 3 average taxi time per flight:
+MKC     8.0
+CBM     5.0
+GLH     4.25
+Bottom 3 average taxi time per flight:
+BFF     0.0
+CYS     0.0
+EAU     0.0
+Flight cancellations most frequent reason:
+A       317972
